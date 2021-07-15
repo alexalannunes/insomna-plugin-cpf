@@ -3,10 +3,8 @@ Generete not valid CPF's formatted or not
 
 
 
-```
-javascript
+```javascript
 cpf(formatted = false) : string
-
 ```
 
 ```npm install insomna-plugin-cpf```
