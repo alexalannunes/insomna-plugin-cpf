@@ -1,4 +1,4 @@
-function cpf(formatted) {
+function cpf(formatted = false) {
   let cpf_ = "xxxxxxxxxxx".replace(/x/g, function (x) {
     return (Math.random() * 9) | 0;
   });
