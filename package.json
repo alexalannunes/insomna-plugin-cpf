@@ -1,0 +1,17 @@
+{
+  "name": "insomna-plugin-cpf",
+  "version": "1.0.0",
+  "insomnia": {                    
+    "name": "CPF",
+    "displayName": "CPF",
+    "description": "Generete not valid CPF's formatted or not",
+    "publisher": {
+      "name": "Alex Alan Nunes"
+    },
+    "applications": { 
+      "core": "*"
+     }
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
