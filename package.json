@@ -1,6 +1,13 @@
 {
   "name": "insomna-plugin-cpf",
   "version": "1.0.3",
+  "author": {
+    "email": "alexalannunes@gmail.com",
+    "name": "Alex Alan Nunes"
+  },
+  "repository": {
+    "url": "https://github.com/alexalannunes/insomna-plugin-cpf"
+  },
   "insomnia": {
     "name": "CPF",
     "displayName": "CPF",
